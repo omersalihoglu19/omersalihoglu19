@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omersalihoglu19
+- 👋 Hi, I’m omer salihoglu
 - 👀 I’m interested in ios and frontend
 - 🌱 I’m currently learning swift
 - 💞️ I’m looking to collaborate on ...
